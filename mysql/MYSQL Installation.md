@@ -1,4 +1,4 @@
-# MYSQL INSTALLTION ON WINDOWS 
+# MySQL Installtion On Windows 
 
 MySQL is a database engine that provides fast, secure and scalable solutions for both small and large applications. MySQL is known for its reliability, scalability and ease of use, making it a popular choice for web developers and organizations worldwide. By installing MySQL on your Windows machine, you can:
 

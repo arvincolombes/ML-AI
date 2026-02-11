@@ -6,3 +6,4 @@ MySQL is a database engine that provides fast, secure and scalable solutions for
 - Use advanced SQL features for querying, filtering, and modifying data.
 - Integrate with popular programming languages such as PHP, Python, Java, and Node.js.
 - Scale your applications seamlessly, handling thousands of transactions and concurrent users.
+  ## Step 1: Visit the Official MySQL Website

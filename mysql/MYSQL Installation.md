@@ -26,20 +26,20 @@ MySQL is a database engine that provides fast, secure and scalable solutions for
 
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/cc13f8d79ec2e21fd5613f0db862fdc9592287fe/mysql/support/myslq3.PNG)
 
-  click the hardware and OS supported version and clik to download 
+ - [ ] click the hardware and OS supported version and clik to download 
 
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/mysql4.PNG)
 
-  click the MSI installer to install install the visual studio 
+  - [ ] click the MSI installer to install install the visual studio 
   
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq4.PNG)
 
   
-              Start The installtion 
+               ## Step 3 Start the Installation 
 
 ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq5.PNG)
 
-                  Select the completed installtion 
+                  ## Select the completed installtion ##
 ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq6.PNG)
 
                  Click to install 
@@ -50,7 +50,7 @@ MySQL is a database engine that provides fast, secure and scalable solutions for
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq8.PNG)
 
                   
-              select all default chnages and click next 
+              select all default changes and click next 
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq11.PNG)
                   set mysql root passpwrd
  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq9.PNG)

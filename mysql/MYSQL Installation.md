@@ -29,6 +29,7 @@ MySQL is a database engine that provides fast, secure and scalable solutions for
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/mysql4.PNG)
 
   click the MSI installer to install install the visual studio 
+  
   ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq4.PNG)
 
   

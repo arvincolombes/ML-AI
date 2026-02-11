@@ -45,16 +45,16 @@ MySQL is a database engine that provides fast, secure and scalable solutions for
                   
                   completed the mysql installtion and need confgure musql
 
-                  ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq8.PNG)
+  ![image alt](https://github.com/arvincolombes/ML-AI/blob/41e65be78a5ef7de660f6e817235912af5c427e0/mysql/support/myslq8.PNG)
 
                   
               select all default chnages and click next 
-                  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq11.PNG)
+  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq11.PNG)
                   set mysql root passpwrd
-                  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq9.PNG)
+ ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq9.PNG)
                   MYSQL configration has been completed
 
-                  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq10.PNG)
+  ![image alt](https://github.com/arvincolombes/ML-AI/blob/55b0e306ee1b05b56c5d3ac44145203654b29ebf/mysql/support/myslq10.PNG)
                   
 
                   

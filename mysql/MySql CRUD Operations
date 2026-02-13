@@ -1,1 +1,48 @@
+##  Create the database 
+mysql> create database ML;
+Query OK, 1 row affected (0.401 sec)
 
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| arvin              |
+| information_schema |
+| ml                 |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+8 rows in set (0.009 sec)
+
+mysql> use ML;
+Database changed
+
+mysql> SELECT DATABASE();
++------------+
+| DATABASE() |
++------------+
+| ml         |
++------------+
+1 row in set (0.005 sec)
+
+## Create the table 
+CREATE TABLE EMPLOYEE(
+ empid INTEGER PRIMARY KEY,
+ name TEXT NOT NULL,
+ dept TEXT NOT NULL
+ );
+mysql> INSERT INTO EMPLOYEE VALUES (0001,'Clark','Sales);
+    '> INSERT INTO EMPLOYEE VALUES (0002,'Deve','Accounting')
+    '> INSERT INTO EMPLOYEE VALUES (0001,'Ava','Sales');
+mysql> select * from employee;
++-------+-------+------------+
+| empid | name  | dept       |
++-------+-------+------------+
+|     1 | Clark | Sales      |
+|     2 | Deve  | Accounting |
+|     3 | Ava   | Sales      |
++-------+-------+------------+
+3 rows in set (0.005 sec)

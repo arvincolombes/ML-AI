@@ -1,4 +1,6 @@
-##  Create the database 
+##  Create the database ##
+==========================
+
 mysql> create database ML;
 Query OK, 1 row affected (0.401 sec)
 
@@ -28,7 +30,8 @@ mysql> SELECT DATABASE();
 +------------+
 1 row in set (0.005 sec)
 
-## Create the table 
+## Create the table ##
+================================
 CREATE TABLE EMPLOYEE(
  empid INTEGER PRIMARY KEY,
  name TEXT NOT NULL,
@@ -46,3 +49,24 @@ mysql> select * from employee;
 |     3 | Ava   | Sales      |
 +-------+-------+------------+
 3 rows in set (0.005 sec)
+
+mysql> select * from employee WHERE dept='Sales';
++-------+-------+-------+
+| empid | name  | dept  |
++-------+-------+-------+
+|     1 | Clark | Sales |
+|     3 | Ava   | Sales |
++-------+-------+-------+
+2 rows in set (0.005 sec)
+
+mysql> select empid from EMPLOYEE;
++-------+
+| empid |
++-------+
+|     1 |
+|     2 |
+|     3 |
++-------+
+3 rows in set (0.007 sec)
+
+

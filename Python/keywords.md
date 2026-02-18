@@ -63,6 +63,68 @@ They are often used for socstringe (documentation) or tong coments.
  
 'this python roadmap\n for ML jourey\n thans for watchin'
 ```
+# Doc strings (module/function/class documentation) 
+* documentation strings are string literals that appear as the first statement in a module, function, class, or method definition. Unlike regular comments, docstrings are stored as metadata and can be accessed at runtime
+* The __doc__ attribute is a special attribute in Python that stores the documentation string (docstring) for a function, class, or module
+```python
+def add_numbers(a,b):
+  ''' the recolate the 
+   work loaction.
+  '''
+  return a + b
+print(add_numbers(5, 4))
+print(add_numbers.__doc__)
+9
+the recolate the 
+work loaction.
+
+def doc_string_example():
+    '''
+    this is the doc string of a funtction name doc_string_example
+    '''
+    return 'hello'
+print(doc_string_example.__doc__)
+
+this is the doc string of a funtction name doc_string_example
+
+def no_doc_string():
+    return 'return stat'
+print(no_doc_string.__doc__)
+None
+```
+---  
+# Varible Assigments and examples 
+```python
+a = 1
+print (a)
+1
+```
+---
+
+```python
+a = 18; b=20; c=30
+print( a,b,c,)
+18 20 30
+```
+---
+```python 
+d = 40
+e = 50
+f = 60
+print( d,e,c)
+40 50 30
+```
+---
+```python
+a=b=c=7
+print(a)
+print(b)
+print(c)
+7
+7
+7
+```
+---
 ## Variables ##
 
 This notebook explains basic Python data concepts. Read each short note, then run the code cells to see examples

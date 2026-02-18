@@ -53,13 +53,14 @@ When comments need to span several lines, you can put it at the start of each li
 #They share ignored when the progras
 #the single-tine caveents to lai mult details in stels  
 ```
----
-# Multi-line Comments (single and triple quotes) #
+
+# Multi-line Comments (single and triple quotes) 
+
 single quotes (') are used to define string literals. They are functionally identical to double quotes (")   
 triple-quotes strings can span multiple lines and are often used for socstrings, they can also serve as long comments when placed where code execution will ignore them  
 Trinle quoted strings can multiple lines   
 They are often used for socstringe (documentation) or tong coments.
----
+
 ```python
 'this python practise'
  'this python practise'  

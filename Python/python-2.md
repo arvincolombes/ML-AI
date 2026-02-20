@@ -32,14 +32,26 @@ end = int(input("Enter the end of interval: "))
 print(f"Prime numbers between {start} and {end} are:")
 
 for num in range(start, end + 1):
-    if num > 1:   # prime numbers are greater than 1
+    if num > 1:   
         is_prime = True
-        for i in range(2, int(num**0.5) + 1):  # check divisors up to sqrt(num)
+        for i in range(2, int(num**0.5) + 1): 
             if num % i == 0:
                 is_prime = False
                 break
         if is_prime:
             print(num)
+
+Enter the start of interval:  2
+Enter the end of interval:  20
+Prime numbers between 2 and 20 are:
+2
+3
+5
+7
+11
+13
+17
+19
 ```
 ---
 

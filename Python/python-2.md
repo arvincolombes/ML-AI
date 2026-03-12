@@ -54,5 +54,31 @@ Prime numbers between 2 and 20 are:
 19
 ```
 ---
+## write python program given range numbers of Fibonacci series using recursion
 
+```python
+def fibonacci(n):
+    if n <= 0:  #Input should be a positive integer"
+        return 
+    elif n == 1:
+        return 0
+    elif n == 2:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+# Print the first 10 Fibonacci numbers
+for i in range(1, 11):
+    print(fibonacci(i))
+
+0
+1
+1
+2
+3
+5
+8
+13
+21
+```
   
